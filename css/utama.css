@@ -1,0 +1,30 @@
+.banner{
+    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 650px;
+    position: relative;
+    opacity: 2;
+}
+.banner_text{
+    text-align: center;
+    margin: 11em 0 0 0;
+}
+.banner_text h3{
+    color: black;
+    font-size: 3em;
+    margin: 0;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.banner_text p{
+    color: black;
+    font-size: 1em;
+    margin: 3em 0;
+    letter-spacing: 35px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
